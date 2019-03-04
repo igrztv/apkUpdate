@@ -1,5 +1,6 @@
 {
   "url":"https://raw.githubusercontent.com/igrztv/apkUpdate/master/sample_v3.apk",
   "versionCode": 3,
-  "updateMessage":"new version"
+  "updateMessage":"new version",
+  "versionName": "3.3"
 }
